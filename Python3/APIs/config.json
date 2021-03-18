@@ -1,0 +1,7 @@
+{
+    "apiurl":"https://[customer].leading2lean.com/api/1.0/",
+    "apikey":"",
+    "verbose":false,
+    "logdirectory":"",
+    "csvdirectory":""
+}
